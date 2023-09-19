@@ -1,1 +1,2 @@
 # wendy
+WENDYです
